@@ -1,4 +1,4 @@
-# 1.5 - Music Scale
+# 2.1 - Domino
 #
 upper_number = 0
 
